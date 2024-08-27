@@ -1,2 +1,2 @@
-# Intro-To-HTML-CITC-1300
+# Project page
 Intro to html
